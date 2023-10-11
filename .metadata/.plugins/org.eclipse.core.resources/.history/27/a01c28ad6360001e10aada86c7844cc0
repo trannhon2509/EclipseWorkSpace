@@ -1,0 +1,5 @@
+package com.mvcproject.domain;
+
+public class Student {
+
+}
