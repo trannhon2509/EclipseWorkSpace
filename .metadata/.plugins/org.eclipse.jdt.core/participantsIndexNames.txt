@@ -1,11 +1,7 @@
 INDEX VERSION 1.134
-C:\Users\nguye\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2503643558.index
-\hello-spring\src\main\java
-C:\Users\nguye\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\431619567.index
-\MVC-Project2\src\main\java
-C:\Users\nguye\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\428402694.index
-\MVC-Project\src\main\java
-C:\Users\nguye\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\636708190.index
-\RoomBooking\src\main\java
-C:\Users\nguye\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2083872676.index
-\RoomBooking2\src\main\java
+C:\Users\nguye\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3768122191.index
+\springmybatis\src\main\java
+C:\Users\nguye\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4132366467.index
+\springMyBatis\src\main\resources
+C:\Users\nguye\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1667482051.index
+\springmybatis\src\main\resources

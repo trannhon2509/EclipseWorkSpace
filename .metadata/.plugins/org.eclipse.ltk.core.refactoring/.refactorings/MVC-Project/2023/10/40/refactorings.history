@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;com.mvcproject.controllers.HomeControler&apos; to &apos;HomeController&apos;&#x0D;&#x0A;- Original project: &apos;MVC-Project&apos;&#x0D;&#x0A;- Original element: &apos;com.mvcproject.controllers.HomeControler&apos;&#x0D;&#x0A;- Renamed element: &apos;com.mvcproject.controllers.HomeController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;HomeControler&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.mvcproject.controllers{HomeControler.java[HomeControler" matchStrategy="1" name="HomeController" qualified="false" references="true" similarDeclarations="false" stamp="1696168704055" textual="false" version="1.0"/>
-</session>
